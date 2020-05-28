@@ -1,0 +1,12 @@
+name: EruptionOldFaithfulGeyser
+title:
+username:
+account: webzest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2371698
+bundleId: 3201436
+url: https://webzest.shinyapps.io/EruptionOldFaithfulGeyser/
+when: 1590687578.12836
+asMultiple: FALSE
+asStatic: FALSE

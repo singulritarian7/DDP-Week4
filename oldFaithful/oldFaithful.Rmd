@@ -1,0 +1,23 @@
+
+### Yellostone National Park : Home of Old Faithful Geyser
+
+Old Faithful Geyser, which is part of the Yellow Stone National Park, has been documented to erupt at a regular rate, and predicted to be the most reliable among its peers of other big geysers.  It is not the biggest or the most regular geyser in Yellowstone National Park, however, it is the most famous.  In fact, it is believed that its regularity is does not correlate to any other hydrothermal features within the Yellow Stone Park sector. 
+
+To learn more, see [Old Faithful Geyser](https://www.nps.gov/places/old-faithful-geyser.htm).
+
+### Facts: Old Faithful Geyser
+
+- average interval between eruptions is about 90 minutes
+- erruptions vary from 50 to 127 minute
+- eruption lasts 1.5 to 5 minutes
+- eruptions expel between 3,700–8,400 gallons of boiling water
+- on average, eruptions reach a height of 106–184 feet
+- average eruption temperature of 169.7°F (76.5°C)
+- an average pH of 9
+- an average conductivity of 1972 uS/cm
+
+### Old Faithful Interactive Summary Statistics
+
+Eruption Frequency & Regression Eruption Duration Summary Statistics that depict the average wait time for an eruption as well as the average duration of an eruption when it occurs, in minutes.
+
+
